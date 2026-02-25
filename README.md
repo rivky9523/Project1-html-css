@@ -709,6 +709,13 @@ Add this below the "Screenshots" section:
 ### Mobile View
 ![Mobile Responsive](screenshots/mobile.png)
 
+
+## 👩‍💻 Author
+
+Rivky Peretz
+[GitHub](https://github.com/rivky9523)
+[Email](mailto:r0548551732@gmail.com)
+
 ### Settings Panel
 ![Settings](screenshots/settings.png)
 ```
